@@ -99,7 +99,7 @@ position: relative;
 }
 
 .startowa-inner{
-    background-image:url(../../projekt/img/landing.jpg);
+    background-image:url(../img/landing.jpg);
     position: fixed;
     display: table;
     top: 0;
@@ -254,7 +254,7 @@ h3.heading{
 
 .fixed
 {
-    background-image: url(../../projekt/img/backgorund2.jpg);
+    background-image: url(../img/backgorund2.jpg);
     z-index: -1;
     
 }
